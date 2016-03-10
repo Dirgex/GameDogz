@@ -4,3 +4,4 @@ bajs
 bajs och mer bajs
 你好
 >>>>>>> origin/master
+testigen

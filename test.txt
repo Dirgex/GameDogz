@@ -4,4 +4,8 @@ bajs
 bajs och mer bajs
 你好
 >>>>>>> origin/master
+<<<<<<< HEAD
 asfasdsadsadsadwadwadwadsads
+=======
+testigen
+>>>>>>> origin/master
